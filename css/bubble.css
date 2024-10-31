@@ -1,0 +1,6 @@
+#seekxl_arrowhead{z-index:99;position:absolute;top:-500px;left:0;visibility:hidden;width:11px;height:9px;border:0!important}
+div[class="seekxl_bubble"]{background:url(http://snapr.seekxl.de/media/shadow.png) no-repeat bottom right!important;margin:10px 0 10px 5px}
+.seekxl_bubble{position:absolute;top:-500px;left:0;visibility:hidden;width:200px;margin:0}
+.seekxl_bubble div *{border:0!important}
+.seekxl_bubble div{position:relative;bottom:6px;right:6px;border:1px solid #bbb;font:normal 12px Verdana;line-height:18px;z-index:100;background-color:#FFF;width:100%;text-align:center;background-position:50% 50%;background-repeat:no-repeat;background-image:url(http://snapr.seekxl.de/media/throbber.gif);filter:progid:DXImageTransform.Microsoft.Shadow(color=#bbbbbb,direction=135,Strength=1)}
+.seekxl_bubble h2{font-size:11px;margin:3px 0 0;padding:0}

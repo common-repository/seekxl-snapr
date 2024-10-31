@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seekXL Snapr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-21 17:41+0100\n"
+"Last-Translator: Tim Zylinski <webmaster@zyblog.de>\n"
+"Language-Team: Tim Zylinski <webmaster@zyblog.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: F:\\work\\web\\scripts\\seekxl-snapr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: seekxl-snapr.php:112
+msgid "Settings Updated."
+msgstr "Einstellungen aktualisiert."
+
+#: seekxl-snapr.php:117
+msgid "seekXL Snapr Settings"
+msgstr "seekXL Snapr Einstellungen"
+
+#: seekxl-snapr.php:118
+msgid "Show screenshots for all external links?"
+msgstr "Screenshots f&uuml;r alle externen Links anzeigen?"
+
+#: seekxl-snapr.php:119
+msgid "\"Yes\" activates the screenshots for all external links. \"No\" keeps the plugin active, but thescreenshot tooltips will be shown ony when the links are tagged manually. How this is done is done, please read <i>readme.txt</i>"
+msgstr "\"Ja\" aktiviert die Screenshots f&uuml;r alle externen Links. Bei \"Nein\" bleibt das Plugin aktiv, aber die Screenshot Tooltips werden nur angezeigt, wenn die Links von Hand gekennzeichnet werden. Wie das funktioniert steht in der Datei <i>liesmich.txt</i>"
+
+#: seekxl-snapr.php:120
+#: seekxl-snapr.php:142
+msgid "Yes"
+msgstr "Ja"
+
+#: seekxl-snapr.php:122
+#: seekxl-snapr.php:144
+msgid "No"
+msgstr "Nein"
+
+#: seekxl-snapr.php:125
+msgid "Thumbnail size"
+msgstr "Thumbnail Gr&ouml;&szlig;e"
+
+#: seekxl-snapr.php:126
+msgid "Choose the size of the screenshot thumbnails."
+msgstr "W&auml;hlen Sie die Gr&ouml;&szlig;e der Screenshot Thumbnails."
+
+#: seekxl-snapr.php:128
+msgid "Thubmnail size:"
+msgstr "Thubmnail Gr&ouml;&szlig;e:"
+
+#: seekxl-snapr.php:129
+msgid "tiny 100x75"
+msgstr "Winzig 100x75"
+
+#: seekxl-snapr.php:130
+msgid "small 200x150"
+msgstr "Klein 200x150"
+
+#: seekxl-snapr.php:131
+msgid "medium 400x300"
+msgstr "Mittel 400x300"
+
+#: seekxl-snapr.php:132
+msgid "large 640x480"
+msgstr "Gro&szlig; 640x480"
+
+#: seekxl-snapr.php:136
+msgid "Use own logo?"
+msgstr "Eigenes Logo benutzen?"
+
+#: seekxl-snapr.php:137
+msgid "To use your own logo, you need to <a href=\"http://snapr.seekxl.de/register/\">register</a> and fill in your logo key below."
+msgstr "Um ein eigenes Logo nutzen zu k&ouml;nnen, muss man sich zuerst <a href=\"http://snapr.seekxl.de/register/\">registrieren</a> und anschlie&szlig;end den erhaltenen Key unten eintragen."
+
+#: seekxl-snapr.php:139
+msgid "Not until a key is entered and the logo setting is set to \"Yes\", the own logos will be shown."
+msgstr "Erst wenn ein Key eingetragen ist und die Logo Einstellung auf \"Ja\" gestellt wird, werden eigene Logos angezeigt."
+
+#: seekxl-snapr.php:147
+msgid "Logo Key"
+msgstr "Logo Key"
+
+#: seekxl-snapr.php:151
+msgid "Update Settings"
+msgstr "Einstellungen aktualisieren"
+

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seekXL Snapr in italiano\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-08-14 00:20+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: F:\\work\\web\\scripts\\seekxl-snapr\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: seekxl-snapr.php:111
+msgid "Settings Updated."
+msgstr "Le impostazioni sono state aggiornate."
+
+#: seekxl-snapr.php:116
+msgid "seekXL Snapr Settings"
+msgstr "Impostazioni seekXL Snapr"
+
+#: seekxl-snapr.php:117
+msgid "Show screenshots for all external links?"
+msgstr "Desideri che siano mostrate le istantanee per tutti i link esterni?"
+
+#: seekxl-snapr.php:118
+msgid "\"Yes\" activates the screenshots for all external links. \"No\" keeps the plugin active, but the screenshot tooltips will be shown only when the links are tagged manually. How this is done, you can learn in <i>readme.txt</i>"
+msgstr "\"Sì\" attiva le istantanee per tutti i link esterni. \"No\" mantiene attivo il plugin mentre il box informativo per le istantanee verrà mostrato solamente se i link saranno stati modificati manualmente. Leggi il <i>readme.txt</i> per ulteriori informazioni"
+
+#: seekxl-snapr.php:119
+#: seekxl-snapr.php:141
+msgid "Yes"
+msgstr "Sì"
+
+#: seekxl-snapr.php:121
+#: seekxl-snapr.php:143
+msgid "No"
+msgstr "No"
+
+#: seekxl-snapr.php:124
+msgid "Thumbnail size"
+msgstr "Dimensione miniature"
+
+#: seekxl-snapr.php:125
+msgid "Choose the size of the screenshot thumbnails."
+msgstr "Scegli la dimensione per le miniature delle istantanee."
+
+#: seekxl-snapr.php:127
+msgid "Thubmnail size:"
+msgstr "Dimensione delle miniature:"
+
+#: seekxl-snapr.php:128
+msgid "tiny 100x75"
+msgstr "minuscola 100x75"
+
+#: seekxl-snapr.php:129
+msgid "small 200x150"
+msgstr "piccola 200x150"
+
+#: seekxl-snapr.php:130
+msgid "medium 400x300"
+msgstr "media 400x300"
+
+#: seekxl-snapr.php:131
+msgid "large 640x480"
+msgstr "grande 640x480"
+
+#: seekxl-snapr.php:135
+msgid "Use own logo?"
+msgstr "Desideri utilizzare un proprio logo?"
+
+#: seekxl-snapr.php:136
+msgid "To use your own logo, you need to <a href=\"http://snapr.seekxl.de/register/\">register</a> and fill in your logo key below."
+msgstr "Per poter usare un proprio logo, sarà necessaria una <a href=\"http://snapr.seekxl.de/register/\">registrazione</a> ed inserire quindi qui sotto la chiave del tuo logo."
+
+#: seekxl-snapr.php:138
+msgid "Your own logos will not be shown, until a key is entered and the setting is set to \"Yes\"."
+msgstr "Una volta inserita la chiave e le impostazioni per il logo settate a \"Sì\", il proprio logo verrà mostrato."
+
+#: seekxl-snapr.php:146
+msgid "Logo Key"
+msgstr "Chiave del logo"
+
+#: seekxl-snapr.php:150
+msgid "Update Settings"
+msgstr "Aggiorna le impostazioni"
+
